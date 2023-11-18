@@ -18,6 +18,7 @@ public class Main {
             num += 1;
         }
 
-        System.out.println("-----------------------\n" + "Sum of numbers is " + sum);
+        System.out.println("-----------------------\n" +
+                "Sum of numbers is " + sum);
     }
 }

@@ -14,6 +14,7 @@ public class Main {
             }
         }
 
-        System.out.println("-----------------------\n" + "Sum of numbers is " + sum);
+        System.out.println("-----------------------\n" +
+                "Sum of numbers is " + sum);
     }
 }
